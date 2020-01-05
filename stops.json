@@ -1,0 +1,317 @@
+[
+  {
+    "code": 3024,
+    "coord": {
+      "lat": 45.416554,
+      "lon": -75.654048
+    },
+    "id": "AE990",
+    "name": "TREMBLAY O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3024,
+    "coord": {
+      "lat": 45.416572,
+      "lon": -75.653993
+    },
+    "id": "AE995",
+    "name": "TREMBLAY O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3023,
+    "coord": {
+      "lat": 45.412316,
+      "lon": -75.6648
+    },
+    "id": "AF990",
+    "name": "HURDMAN O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3023,
+    "coord": {
+      "lat": 45.412381,
+      "lon": -75.663798
+    },
+    "id": "AF995",
+    "name": "HURDMAN O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3051,
+    "coord": {
+      "lat": 45.419098,
+      "lon": -75.704161
+    },
+    "id": "CA990",
+    "name": "LYON O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3051,
+    "coord": {
+      "lat": 45.418588,
+      "lon": -75.705318
+    },
+    "id": "CA995",
+    "name": "LYON O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3052,
+    "coord": {
+      "lat": 45.421542,
+      "lon": -75.698485
+    },
+    "id": "CB990",
+    "name": "PARLIAMENT / PARLEMENT O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3052,
+    "coord": {
+      "lat": 45.421045,
+      "lon": -75.699616
+    },
+    "id": "CB995",
+    "name": "PARLIAMENT / PARLEMENT O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3009,
+    "coord": {
+      "lat": 45.426064,
+      "lon": -75.692021
+    },
+    "id": "CD990",
+    "name": "RIDEAU O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3009,
+    "coord": {
+      "lat": 45.42606,
+      "lon": -75.692017
+    },
+    "id": "CD995",
+    "name": "RIDEAU O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3021,
+    "coord": {
+      "lat": 45.420768,
+      "lon": -75.682749
+    },
+    "id": "CD998",
+    "name": "UOTTAWA O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3021,
+    "coord": {
+      "lat": 45.420759,
+      "lon": -75.682753
+    },
+    "id": "CD999",
+    "name": "UOTTAWA O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3022,
+    "coord": {
+      "lat": 45.416351,
+      "lon": -75.670504
+    },
+    "id": "CE990",
+    "name": "LEES O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3022,
+    "coord": {
+      "lat": 45.416346,
+      "lon": -75.670514
+    },
+    "id": "CE995",
+    "name": "LEES O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3062,
+    "coord": {
+      "lat": 45.385505,
+      "lon": -75.695855
+    },
+    "id": "CG990",
+    "name": "CARLETON O-TRAIN NORTH/NORD"
+  },
+  {
+    "code": 3062,
+    "coord": {
+      "lat": 45.385552,
+      "lon": -75.696035
+    },
+    "id": "CG995",
+    "name": "CARLETON O-TRAIN SOUTH/SUD"
+  },
+  {
+    "code": 3010,
+    "coord": {
+      "lat": 45.413709,
+      "lon": -75.713172
+    },
+    "id": "CJ990",
+    "name": "PIMISI O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3010,
+    "coord": {
+      "lat": 45.413702,
+      "lon": -75.713157
+    },
+    "id": "CJ995",
+    "name": "PIMISI O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3025,
+    "coord": {
+      "lat": 45.420619,
+      "lon": -75.637845
+    },
+    "id": "EB990",
+    "name": "ST-LAURENT O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3025,
+    "coord": {
+      "lat": 45.420611,
+      "lon": -75.637877
+    },
+    "id": "EB995",
+    "name": "ST-LAURENT O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3026,
+    "coord": {
+      "lat": 45.423096,
+      "lon": -75.62591
+    },
+    "id": "EC990",
+    "name": "CYRVILLE O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3026,
+    "coord": {
+      "lat": 45.423091,
+      "lon": -75.625909
+    },
+    "id": "EC995",
+    "name": "CYRVILLE O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3027,
+    "coord": {
+      "lat": 45.430803,
+      "lon": -75.608684
+    },
+    "id": "EE990",
+    "name": "BLAIR O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3027,
+    "coord": {
+      "lat": 45.430798,
+      "lon": -75.608674
+    },
+    "id": "EE995",
+    "name": "BLAIR O-TRAIN"
+  },
+  {
+    "code": 3060,
+    "coord": {
+      "lat": 45.409403,
+      "lon": -75.722032
+    },
+    "id": "NA990",
+    "name": "BAYVIEW O-TRAIN WEST / OUEST"
+  },
+  {
+    "code": 3060,
+    "coord": {
+      "lat": 45.409398,
+      "lon": -75.722023
+    },
+    "id": "NA995",
+    "name": "BAYVIEW O-TRAIN EAST / EST"
+  },
+  {
+    "code": 3060,
+    "coord": {
+      "lat": 45.40925,
+      "lon": -75.722057
+    },
+    "id": "NA996",
+    "name": "BAYVIEW O-TRAIN SOUTH/SUD"
+  },
+  {
+    "code": 3011,
+    "coord": {
+      "lat": 45.403738,
+      "lon": -75.7352
+    },
+    "id": "NA998",
+    "name": "TUNNEY'S PASTURE O-TRAIN"
+  },
+  {
+    "code": 3011,
+    "coord": {
+      "lat": 45.403727,
+      "lon": -75.735192
+    },
+    "id": "NA999",
+    "name": "TUNNEY'S PASTURE O-TRAIN EAST / EST"
+  },
+  {
+    "code": 8014,
+    "coord": {
+      "lat": 45.396844,
+      "lon": -75.709617
+    },
+    "id": "NB570",
+    "name": "CARLING / O-TRAIN STATION"
+  },
+  {
+    "code": 7369,
+    "coord": {
+      "lat": 45.396628,
+      "lon": -75.709502
+    },
+    "id": "NB580",
+    "name": "CARLING / O-TRAIN STATION"
+  },
+  {
+    "code": 3061,
+    "coord": {
+      "lat": 45.397573,
+      "lon": -75.709806
+    },
+    "id": "NB990",
+    "name": "CARLING O-TRAIN NORTH/NORD"
+  },
+  {
+    "code": 3061,
+    "coord": {
+      "lat": 45.397513,
+      "lon": -75.709904
+    },
+    "id": "NB990S",
+    "name": "CARLING O-TRAIN SOUTH/SUD"
+  },
+  {
+    "code": 3063,
+    "coord": {
+      "lat": 45.377049,
+      "lon": -75.684993
+    },
+    "id": "RA990",
+    "name": "MOONEY'S BAY O-TRAIN"
+  },
+  {
+    "code": 3037,
+    "coord": {
+      "lat": 45.359708,
+      "lon": -75.659447
+    },
+    "id": "RF990",
+    "name": "GREENBORO O-TRAIN NORTH/NORD"
+  }
+]

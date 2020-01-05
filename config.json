@@ -1,0 +1,48 @@
+{
+  "cache": {
+    "cacheSize": 10,
+    "cacheTTL": 3e5
+  },
+  "coerce": false,
+  "etags": {
+    "enabled": false
+  },
+  "headers": {
+    "cache-control": "public, max-age=300, must-revalidate"
+  },
+  "id": "olrt",
+  "logging": {
+    "enabled": true,
+    "level": "warn",
+    "stack": true,
+    "stackWire": false
+  },
+  "maxBytes": 0,
+  "origins": [],
+  "port": 8050,
+  "rate": {
+    "enabled": false,
+    "limit": 2,
+    "reset": 10
+  },
+  "security": {
+    "key": "x-csrf-token",
+    "secret": "",
+    "csrf": true,
+    "csp": null,
+    "xframe": "SAMEORIGIN",
+    "p3p": "",
+    "xssProtection": true
+  },
+  "seed": 223,
+  "session": {
+    "name": "ottawalrt.sid",
+    "secret": "",
+    "store": "redis",
+    "redis": {
+      "host": ""
+    }
+  },
+  "title": "OttawaLRT.app API",
+  "uid": 33
+}

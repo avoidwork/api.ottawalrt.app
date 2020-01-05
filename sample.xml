@@ -1,0 +1,245 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+    <channel>
+        <title>OC Transpo - Live Updates</title>
+        <link>http://www.octranspo.com/</link>
+        <description>
+            Daily route changes resulting from detours and cancelled trips are listed here by OC Transpo staff on weekdays, Saturdays until 9 pm and Sundays until 5 pm.
+        </description>
+        <atom:link href="http://octranspo1.com/feeds/updates-en" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>25 Millennium: Cancelled trip</title>
+            <pubDate>Sat, 02 Nov 2019 09:24:00 EDT</pubDate>
+            <category>
+                <![CDATA[ Cancelled trips ]]>
+            </category>
+            <category>
+                <![CDATA[ affectedRoutes-25 ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-25-millennium-cancelled-trip-1572701158897
+            </link>
+            <description>
+                <![CDATA[
+November 02 2019 - <p>The trip is cancelled from Carson&#39;s/Montr&eacute;al at 9:36 to Millennium station at 10:16. The next trip is 30 minutes later.</p>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-25-millennium-cancelled-trip-1572701158897
+            </guid>
+        </item>
+        <item>
+            <title>6 Billings Bridge: Cancelled trip</title>
+            <pubDate>Sat, 02 Nov 2019 09:16:00 EDT</pubDate>
+            <category>
+                <![CDATA[ Cancelled trips ]]>
+            </category>
+            <category>
+                <![CDATA[ affectedRoutes-6 ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-6-billings-bridge-cancelled-trip-1572700685107
+            </link>
+            <description>
+                <![CDATA[
+November 02 2019 - <p>The trip is cancelled from Rideau station at 9:23 to Billings Bridge station at 9:47. The next trip is 15 minutes later.</p>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-6-billings-bridge-cancelled-trip-1572700685107
+            </guid>
+        </item>
+        <item>
+            <title>O-Train Line 1 (Final Update)</title>
+            <pubDate>Fri, 01 Nov 2019 05:21:00 EDT</pubDate>
+            <category>
+                <![CDATA[ Important Service Notification ]]>
+            </category>
+            <category>
+                <![CDATA[ affectedRoutes-1 O-Train ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-o-train-line-1
+            </link>
+            <description>
+                <![CDATA[
+November 01 2019 - <p>Final Update 9:02am: Full service resumed on O-Train Line 1, residual delays of 5-10 minutes being experienced. We apologize for any inconvenience.</p> <p>Update #2 8:47am: We are experiencing delays on Line 1 due to a switch issue. Trains running Blair to Lyon. R1 bus service between Tunney&#39;s Pasture and Lyon stations. Updates to follow.</p> <p>Update #1 8:37: R1 Replacement bus service is running between Tunney&#39;s Pasture and Lyon stations due to a switch problem. Updates to follow.</p> <p>8:29am: Line 1 trains will be serving the Eastbound platform at Lyon to Blair and Westbound platform at Lyon to Tunney&#39;s Pasture until further notice. Service continues to run. R1 buses will provide supplemental service between Tunney&#39;s Pasture and Lyon. Updates to follow.</p>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-o-train-line-1
+            </guid>
+        </item>
+        <item>
+            <title>
+                Closure of the Transitway Westbound from Westboro to Dominion (revised info)
+            </title>
+            <pubDate>Mon, 28 Oct 2019 13:37:00 EDT</pubDate>
+            <category>
+                <![CDATA[ Detours ]]>
+            </category>
+            <category>
+                <![CDATA[ affectedRoutes-57, 58, 61, 62, 63, 74, 75, 83, 87 ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-closure-of-the-transitway-westbound-from-westboro-to-dominion
+            </link>
+            <description>
+                <![CDATA[
+October 28 2019 - <p>From Friday, Nov. 1, 2019 at 9 pm until Monday, Nov. 4, 2019 at 5 am, <strong>Routes 57, 58, 61, 62, 63, 74, 75, 83, 84, 87 will be detoured westbound </strong>due to the closure of the westbound Transitway for construction. </p> <h3><strong>Detour Routing</strong></h3> <ul> <li>Routes 57, 61, 62, 63, 64, 74, 75, 83 and 84<strong> (westbound)</strong> will serve Westboro Station, Scott, Churchill, Richmond, Woodroffe, Carling, and Lincoln Fields Station</li> <li>Route 87 <strong>(westbound)</strong> will serve the Westboro Station, Scott, Churchill, Richmond, and Woodroffe to regular route.</li> </ul> <h3 id="stopImpacts"><strong>Affected Stops</strong></h3> <table aria-labelledby="stopImpacts" style="width:100%;"> <thead> <tr> <th scope="col" style="text-align: left;width:33%;">Bus Stops (560#) NOT in use</th> <th scope="col" style="text-align: left;width:33%;">Route(s)</th> <th scope="col" style="text-align: left;width:33%;">Alternate Service</th> </tr> </thead> <tbody> <tr> <td># 3013 -- Dominion Station (Stop 1A)</td> <td>57, 58, 61, 62, 63, 74, 75, 83, 87</td> <td style="text-align: left;"># 4922 -- Richmond (north-side) and Golden</td> </tr> <tr> <td># 3014 -- Lincoln Fields Station (Stops 1A, 1B)</td> <td>57, 58, 61, 62, 63, 74, 75, 83</td> <td style="text-align: left;"># 3014 -- Lincoln Fields Station (Stop 4B)</td> </tr> <tr> <td># 1832 -- Woodroffe (west-side) and Richmond</td> <td rowspan="2">87</td> <td rowspan="2"># 4944 -- Woodroffe (west-side) and Saunders</td> </tr> <tr> <td style="text-align: left;"># 6244 -- Woodroffe (west-side) and Knightsbridge</td> </tr> </tbody> </table>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-closure-of-the-transitway-westbound-from-westboro-to-dominion
+            </guid>
+        </item>
+        <item>
+            <title>Chapel Hill Park & Ride Opening</title>
+            <pubDate>Tue, 22 Oct 2019 14:13:00 EDT</pubDate>
+            <category>
+                <![CDATA[ Detours ]]>
+            </category>
+            <category>
+                <![CDATA[ affectedRoutes-34, 225 ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-detour-chapel-hill-park-and-ride-opening-1571768273273
+            </link>
+            <description>
+                <![CDATA[
+October 22 2019 - <p>Please be advised that on <strong>Sunday, 27 October 2019</strong> the Chapel Hill Park and Ride will open to customers and the station will open for bus use. With the opening, <strong>routes 34 and 225</strong> will be detoured into the station to provide service for Park and Ride customers.</p> <h3><strong>Detour routing</strong></h3> <p><a href="https://www.octranspo.com/images/files/maps/detours/2019/zibi_detour.pdf"><img alt="Chapel Hill Park &amp; Ride Opening detour" src="http://www.octranspo.com/images/files/maps/detours/2019/ChapelHill_opening.png" style="width: 100%;" /></a></p>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-detour-chapel-hill-park-and-ride-opening-1571768273273
+            </guid>
+        </item>
+        <item>
+            <title>Stop #8129 relocated at Innes Road</title>
+            <pubDate>Fri, 18 Oct 2019 14:43:00 EDT</pubDate>
+            <category>
+                <![CDATA[ Detours ]]>
+            </category>
+            <category>
+                <![CDATA[ affectedRoutes-25, 612, 648 ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-stop-8129-relocated-at-innes-road-1571427310966
+            </link>
+            <description>
+                <![CDATA[
+October 18 2019 - <p>Starting Tuesday, October 22, 2019 and for approximately 2 weeks, Routes 25, 612 and 648 will be affected by the Stop #8129, relocated about 60 m east on Innes Road. Please allow a few extra minutes for your travel</p> <p><br /> <a href="/images/files/maps/detours/2019/8129relocated.pdf"><img alt="Stop #8129 relocation map" src="http://www.octranspo.com/images/files/maps/detours/2019/8129relocated.png" style="width: 100%;" /></a></p>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-stop-8129-relocated-at-innes-road-1571427310966
+            </guid>
+        </item>
+        <item>
+            <title>Lycée Claudel Station: Elevator</title>
+            <pubDate>Wed, 16 Oct 2019 08:35:00 EDT</pubDate>
+            <category>
+                <![CDATA[ General Message ]]>
+            </category>
+            <category>
+                <![CDATA[ ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-lycee-claudel-station-elevator-2
+            </link>
+            <description>
+                <![CDATA[
+October 16 2019 - <p><strong>Lycee NB elevator # 24:</strong></p> <p>The northbound elevator at Lyc&eacute;e Claudel Station is out of service for unforeseen maintenance. We expect the elevator to be out of service for a few days and regret any inconvenience this may cause.</p> <p>Customers requiring the use of an elevator to access the southbound platform are advised to: take any northbound bus at stop 2A to Hurdman Station, cross over to the southbound side and take any southbound bus at stop 1D back to Lyc&eacute;e Claudel Station. Alternatively, you may also use the sidewalk outside the station and walk to Smyth Station.</p> <p>For Travel Planning assistance, please call 613-741-4390 or press the free &ldquo;Info&rdquo; button on any Bell telephone in the station. For emergency assistance, use the nearest yellow emergency callbox.</p> <p></p> <p><strong>Lyc&eacute;e SB elevator # 25:</strong><br /> The southbound elevator at Lyc&eacute;e Claudel Station is out of service for unforeseen maintenance. We expect the elevator to be out of service for a few days and regret any inconvenience this may cause.</p> <p>Customers requiring the use of an elevator to access the northbound platform are advised to: take any southbound bus stop 1A to Smyth Station, cross over to the northbound side and take any northbound bus stop 2A back to Lyc&eacute;e Claudel Station. </p> <p>For Travel Planning assistance, please call 613-741-4390 or press the free &ldquo;Info&rdquo; button on any Bell telephone in the station. For emergency assistance, use the nearest yellow emergency callbox.</p>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-lycee-claudel-station-elevator-2
+            </guid>
+        </item>
+        <item>
+            <title>An updated letter from OC Transpo</title>
+            <pubDate>Thu, 10 Oct 2019 17:16:00 EDT</pubDate>
+            <category>
+                <![CDATA[ General Message ]]>
+            </category>
+            <category>
+                <![CDATA[ ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-a-letter-from-the-general-manager-1570563933683
+            </link>
+            <description>
+                <![CDATA[
+October 10 2019 - <p>An updated letter to all customers from OC Transpo.</p> <p><a href="https://www.octranspo.com/en/letter-from-the-general-manager">Read more...<span class="visuallyhidden">about OC Transpo&#39;s letter to customers</span></a></p>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-a-letter-from-the-general-manager-1570563933683
+            </guid>
+        </item>
+        <item>
+            <title>
+                Correction: Richmond Road Eastbound will reopen early (on Nov. 12)
+            </title>
+            <pubDate>Mon, 09 Sep 2019 11:09:00 EDT</pubDate>
+            <category>
+                <![CDATA[ Detours ]]>
+            </category>
+            <category>
+                <![CDATA[ affectedRoutes-11, 153 ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-richmond-road-eastbound-closure-1568042908986
+            </link>
+            <description>
+                <![CDATA[
+September 09 2019 - <p>From<strong> 9:00 am </strong>on Wednesday, September 18, 2019 until <strong>10 am </strong>on Tuesday, November 12, 2019, Eastbound <strong>routes 11 and 153</strong><strong> </strong>will be detoured<strong> </strong>due to the closure of Richmond Road. Please allow a few extra minutes for your travel.</p> <h3><strong>Detour routing</strong></h3> <ul> <li>Route 11 Parliament will serve Richmond, Redwood, Byron, Fraser and Richmond.</li> <li>Route 153 Tunney&#39;s Pasture will serve Richmond, Redwood, Byron, Fraser and Richmond.</li> </ul> <h3><strong>Affected stops</strong></h3> <table style="width: 100%;" summary="Table describing Bus stops not in use and their alternate service stops"> <thead> <tr> <th scope="col" style="width: 40%; text-align: left;">Bus stops (560#) NOT in use</th> <th scope="col" style="text-align: left;">Alternate service</th> </tr> </thead> <tbody> <tr> <td># 7511 -- Richmond (south side) and Wavell</td> <td style="text-align: left;">Temporary stop -- Byron (south side) and Wavell</td> </tr> <tr> <td># 4940 -- Richmond (south side) and Westminster</td> <td style="text-align: left;">Temporary stop -- Byron (south side) and Westminster</td> </tr> <tr> <td># 7512 -- Richmond (south side) and Redwood</td> <td style="text-align: left;">Temporary stop -- Richmond and Cleary</td> </tr> </tbody> </table> <p><a href="/images/files/maps/detours/2019/richmond_closure.pdf"><img alt="Detour map for Richmond Road Closure" src="http://www.octranspo.com/images/files/maps/detours/2019/richmond_closure.png" style="width: 100%;" /></a></p>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-richmond-road-eastbound-closure-1568042908986
+            </guid>
+        </item>
+        <item>
+            <title>Lycée Claudel Tunnel Closure</title>
+            <pubDate>Mon, 29 Jul 2019 11:26:00 EDT</pubDate>
+            <category>
+                <![CDATA[ General Message ]]>
+            </category>
+            <category>
+                <![CDATA[ ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-lycee-claudel-tunnel-closure-1564414312038
+            </link>
+            <description>
+                <![CDATA[
+July 29 2019 - <p>Starting Monday, Aug. 5, Lyc&eacute;e Claudel station will undergo repairs. During this time, the pedestrian tunnel will be out of service. A crosswalk will be setup on the south end of the platforms. A ramp to the Transitway level has been installed next to the station entrance. The tunnel is expected to reopen in late November or early December.</p> <p><a href="https://www.octranspo.com/images/files/maps/detours/2019/Lycee_Claudel_Tunnel_Closure.pdf"><img alt="Lycée Claudel Tunnel Closure" src="https://www.octranspo.com/images/files/maps/detours/2019/Lycee_Claudel_Tunnel_Closure.png" style="width: 100%;" /></a></p>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-lycee-claudel-tunnel-closure-1564414312038
+            </guid>
+        </item>
+        <item>
+            <title>Elgin Full Closure From Laurier to Catherine</title>
+            <pubDate>Tue, 07 May 2019 13:19:00 EDT</pubDate>
+            <category>
+                <![CDATA[ Detours ]]>
+            </category>
+            <category>
+                <![CDATA[ affectedRoutes-5, 14 ]]>
+            </category>
+            <link>
+                https://www.octranspo.com/en/alerts#alert-full-closure-elgin-from-laurier-begins-april-1
+            </link>
+            <description>
+                <![CDATA[
+May 07 2019 - <p>Starting <strong>9am Monday, April 1</strong>, 2019, Elgin will be fully closed to traffic from Laurier to Catherine. Elgin should reopen later in 2019. The closure is part of the <a href="https://ottawa.ca/en/city-hall/public-engagement/projects/elgin-street-renewal">Elgin Street Renewal project</a>. During this time,<strong> Routes 5 and 14</strong> will be detoured. Routes 101 and 103 will not be affected.</p> <h3><strong>Detour routing</strong></h3> <p>Instead of Elgin:</p> <p><a href="https://www.octranspo.com/images/files/maps/detours/2019/Elgin_Full_Closure.pdf"><img alt="Elgin Street full closure map" class="fancy_image" p="" src="https://www.octranspo.com/images/files/maps/detours/2019/Elgin_Full_Closure@2x.png" style="width: 40%; float: right; margin-left: 10px;" /></a></p> <ul> <li><strong>Route 5 Billings Bridge</strong> will use Elgin, Albert, O&rsquo;Connor, Somerset, Metcalfe, Cooper, Cartier, McLeod and the Queen Elizabeth Parkway</li> <li><strong>Route 5 Rideau </strong>will use Queen Elizabeth Parkway, McLeod, Cartier, Somerset and Metcalfe</li> <li><strong>Route 14 Carlington </strong>will use Elgin, Albert, O&rsquo;Connor, Somerset,Metcalfe, Cooper, Cartier, McLeod, Metcalfe and Gladstone</li> <li><strong>Route 14 St-Laurent</strong> will use Cartier, Somerset, Metcalfe and Slater</li> </ul> <h3><strong>Affected stops</strong></h3> <table style="width: 100%;" summary="Stops affected by the Elgin Street closure"> <thead> <tr> <th scope="col" style="width: 45%; text-align: left;">Bus stops (560#) NOT in use</th> <th scope="col" style=" text-align: left;">Alternate service</th> </tr> </thead> <tbody> <tr> <td><strong>NEW!</strong> # 8465 -- Elgin (west side) and Gloucester</td> <td># 0002 -- Temp Stop at O&rsquo;Connor, north side of Lisgar</td> </tr> <tr> <td><strong>NEW!</strong> # 7559 -- Elgin (west side) and Slater</td> <td># 3001 -- Albert at Metcalfe</td> </tr> <tr> <td># 7676 -- Elgin (west side) and Lisgar</td> <td># 0004 -- Somerset (south side) and Elgin</td> </tr> <tr> <td># 2471 -- Elgin (west side) and Somerset</td> <td># 0004 -- Somerset (south side) and Elgin</td> </tr> <tr> <td># 7673 -- Elgin (west side) and Lewis </td> <td># 0008 -- Cartier (west side) and Lewis</td> </tr> <tr> <td># 2472 -- Elgin (west side) and Frank</td> <td># 0009 -- Cartier (west side) and Gladstone</td> </tr> <tr> <td># 2473 -- Elgin (west side) and McLeod</td> <td># 0012 -- McLeod (south side) and Cartier</td> </tr> <tr> <td># 2476 -- Elgin (west side) and Catherine</td> <td># 2447 -- Hawthorne (south side) and Colonel By</td> </tr> <tr> <td># 7560 -- Elgin (east side) and Slater NS</td> <td># 3008 -- Slater (south side) and Metcalfe</td> </tr> <tr> <td># 2466 -- Elgin (east side) and Argyle</td> <td># 7633 -- Hawthorne (north side) and Colonel By</td> </tr> <tr> <td># 2468 -- Elgin (east side) and McLeod</td> <td># 0011 -- McLeod (north side) and Cartier</td> </tr> <tr> <td># 6403 -- Elgin (east side) and Waverly</td> <td># 0007 -- Cartier (east side) and Lewis</td> </tr> <tr> <td># 2469 -- Elgin (east side) and Gilmour</td> <td># 0007 -- Cartier (east side) and Lewis</td> </tr> <tr> <td># 7674 -- Elgin (east side) and Cooper</td> <td># 0003 -- Somerset (north side) and Elgin</td> </tr> <tr> <td># 7675 -- Elgin (east side) and Nepean</td> <td># 0001 -- Metcalfe (east side) and Lisgar</td> </tr> <tr> <td># 2034 -- Elgin (east side) and Isabella</td> <td># 7633 -- Hawthorne (north side) and Colonel By</td> </tr> </tbody> </table>
+]]>
+            </description>
+            <guid>
+                https://www.octranspo.com/en/alerts#alert-full-closure-elgin-from-laurier-begins-april-1
+            </guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,38 @@
+{
+  "name": "api.ottawalrt.app",
+  "version": "1.0.0",
+  "description": "API for ottawalrt.app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "eslint index.js lib/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avoidwork/api.ottawalrt.app.git"
+  },
+  "keywords": [
+    "api",
+    "lrt",
+    "ottawa",
+    "status",
+    "news",
+    "alerts",
+    "feed"
+  ],
+  "author": "Jason Mulligan <jason.mulligan@avoidwork.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/avoidwork/api.ottawalrt.app/issues"
+  },
+  "homepage": "https://github.com/avoidwork/api.ottawalrt.app#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "tenso": "^15.0.9",
+    "tiny-lru": "^7.0.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
