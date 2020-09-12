@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/avoidwork/api.ottawalrt.app#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "tenso": "^15.0.9",
     "tiny-lru": "^7.0.2",
     "xml2js": "^0.4.23"
